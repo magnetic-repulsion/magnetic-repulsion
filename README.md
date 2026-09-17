@@ -1,7 +1,7 @@
-$${\color{#c1c09c} ⠀  ⠀ ⠀ ⠀ ⠀⠀S \color{#b3b59a}p \color{#9bb886}a \color{#96baa6}m  \space \color{#96baa6}f \color{#96baa6}o \color{#6cadaa}ll \color{#90afac}ow \color{#7faaa5}ing .}$$ 
+$${\color{#c1c09c} ⠀ ⠀⠀S \color{#b3b59a}p \color{#9bb886}a \color{#96baa6}m  \space \color{#96baa6}f \color{#96baa6}o \color{#6cadaa}ll \color{#90afac}ow \color{#7faaa5}ing .}$$ 
 
 
-$${\color{#c1c09c}⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀F \color{#b3b59a}o \color{#9bb886}ll \color{#96baa6}o \color{#96baa6}w \space \color{#96baa6}m \color{#6cadaa}a \color{#90afac}i \color{#7faaa5}n !}$$
+$${\color{#c1c09c}⠀ ⠀  ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀F \color{#b3b59a}o \color{#9bb886}ll \color{#96baa6}o \color{#96baa6}w \space \color{#96baa6}m \color{#6cadaa}a \color{#90afac}i \color{#7faaa5}n !}$$
 
 
 
